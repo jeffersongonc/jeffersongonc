@@ -101,7 +101,7 @@
           height="40"
           alt="vscode logo"
         />
-        <img width="12" /> Visual Studio Code
+        <img width="12" /> VS Code
       </td>
     </tr>
       <td>
@@ -110,7 +110,7 @@
           height="40"
           alt="azure repos"
         />
-        <img width="12" /> Azure Repos
+        <img width="10" /> AzureRepos
       </td>
       <td>
         <img
@@ -134,7 +134,7 @@
           height="40"
           alt="google maps"
         />
-        <img width="12" /> API Google Maps
+        <img width="12" /> Google Maps
       </td>
     <tr>
     </tr>
